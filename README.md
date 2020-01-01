@@ -2,6 +2,8 @@
 
 > blockchain prototype study...
 
+- https://www.flysnow.org/2019/11/08/golang-bitcoin-blockchain-sources.html
+
 ```json
 {
     "chain": [
